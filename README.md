@@ -29,4 +29,5 @@ I'm Information System student at UNASP.
   ![](https://github-readme-streak-stats.herokuapp.com/?user=nibiroo&theme=radical&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nibiroo&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   <br>
+  <p> Visitor Count </p>
   <img src="https://profile-counter.glitch.me/nibiroo/count.svg" />
