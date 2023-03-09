@@ -23,8 +23,9 @@ I'm Information System student at UNASP.
   <a href="https://www.jenkins.io" target="_blank"> <img align="center" height="40" width="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"/> </a>
   <a href="https://www.docker.com/" target="_blank"> <img align="center" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/></a>
   <a href="https://www.oracle.com/br/"><img align="center" height="30" width="90" src="https://1000logos.net/wp-content/uploads/2017/04/Font-Oracle-Logo-500x161.jpg"></a
+  <a href="https://www.postgresql.org" target="_blank"> <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/></a>
   <a href="https://www.mysql.com" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg"></a>
-  <a href="https://www.postgresql.org" target="_blank"> <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/> </a>
+  
   
   # 📊 GitHub Stats:
   ![](https://github-readme-stats.vercel.app/api?username=nibiroo&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
