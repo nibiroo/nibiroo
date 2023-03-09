@@ -3,7 +3,7 @@
 
 ---
 
-Hi there, I'm Guilherme Machado! 👋
+Hi, I'm Guilherme Machado! 👋
 <br>
 I am currently working at <a href="https://benfatto.net.br/pt/">Ben Fatto</a>, working on the <a href="https://www.thomsonreuters.com/en.html">Thomson Reuters</a> development team for the One Source Global Trade solution using Oracle and Centura.
 <br>
